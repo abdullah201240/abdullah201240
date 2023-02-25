@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img height="300" src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/280754006_3191186317805391_3647170404101630606_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHKDz8zg3SqpdvphusXYs8wkrYcR7ElswuSthxHsSWzC2pCmSE4JmTmZg1P0SOoCOMU1PU1BGYU5yy7A3wyNbwL&_nc_ohc=WUg0bG5MlugAX8IVJxZ&_nc_ht=scontent.fdac14-1.fna&oh=00_AfC8y0qar6ePnLUX7bSLDHKk0DFTP8i9qWMt26s2u5Yo7w&oe=63AC8ABB">
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Sakib</h1>
