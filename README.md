@@ -13,9 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdulla53735234" target="blank"><img src="https://img.shields.io/twitter/follow/abdulla53735234?logo=twitter&style=for-the-badge" alt="abdulla53735234" /></a> </p>
 
-- 🔭 I’m currently working on ** UIU ECATS**
 
-- 🌱 I’m currently learning **Machine learning**
 
 - 👯 I’m looking to collaborate on **Github**
 
